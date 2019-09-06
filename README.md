@@ -1,2 +1,2 @@
-# the-library
-An interactive poem/animation using html+css.
+# the-library of Babbage
+An interactive triptych poem using html+css.

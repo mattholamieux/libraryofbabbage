@@ -81,6 +81,7 @@ b {
   opacity: 1;
 }
 
+
 .one:hover ~ .three{
     transform: scale(0);
 }
